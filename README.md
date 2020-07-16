@@ -1,2 +1,2 @@
-# DS_CLASS
+# DS
 JAVA Codes
