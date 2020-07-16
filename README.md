@@ -1,2 +1,2 @@
-# DS
+# DS Class
 JAVA Codes
